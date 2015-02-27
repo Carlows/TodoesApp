@@ -1,0 +1,11 @@
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\bin\Debug\NotasApp.Domain.dll.config
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\bin\Debug\NotasApp.Domain.dll
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\bin\Debug\NotasApp.Domain.pdb
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\bin\Debug\EntityFramework.dll
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\bin\Debug\EntityFramework.xml
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\obj\Debug\NotasApp.Domain.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\obj\Debug\NotasApp.Domain.dll
+c:\users\carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\obj\Debug\NotasApp.Domain.pdb
+C:\Users\Carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.Domain\bin\Debug\Elmah.dll

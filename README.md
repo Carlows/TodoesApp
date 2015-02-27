@@ -1,0 +1,3 @@
+## SIMPLE TODO APPLICATION. DEMUESTRA EL USO DE WEBAPI2, IOC CONTAINER NINJECT, ELMAH PARA LOGGING Y MVC PARA EL SITIO WEB
+
+Además, cuenta con una aplicación para Android, que consume esta API Restful

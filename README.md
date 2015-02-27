@@ -8,3 +8,5 @@ Introducción a ELMAH, configuración incluyendo base de datos SQLServer
 http://benfoster.io/blog/centralized-logging-and-diagnostics-with-elmah-and-nlog
 Infraestructura
 http://captechconsulting.com/blog/john-nein/aspnet-web-api-and-mvc-basic-infrastructure-example
+Exception Handling attribute
+http://weblogs.asp.net/fredriknormen/asp-net-web-api-exception-handling

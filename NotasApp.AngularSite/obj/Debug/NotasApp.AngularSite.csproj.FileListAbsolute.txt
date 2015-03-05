@@ -1,0 +1,6 @@
+C:\Users\Carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.AngularSite\bin\NotasApp.AngularSite.dll.config
+C:\Users\Carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.AngularSite\bin\NotasApp.AngularSite.dll
+C:\Users\Carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.AngularSite\bin\NotasApp.AngularSite.pdb
+C:\Users\Carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.AngularSite\obj\Debug\NotasApp.AngularSite.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.AngularSite\obj\Debug\NotasApp.AngularSite.dll
+C:\Users\Carlos\documents\visual studio 2013\Projects\NotasApp\NotasApp.AngularSite\obj\Debug\NotasApp.AngularSite.pdb
